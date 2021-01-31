@@ -69,7 +69,6 @@ static void HillCipher(String message, String key)
     System.out.print(" Ciphertext:" + CipherText); 
 } 
   
-// Driver code 
 public static void main(String[] args)  
 { 
     // Get the message to be encrypted 

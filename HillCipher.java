@@ -1,4 +1,4 @@
-class GFG  
+class Hill 
 { 
   
 // Following function generates the 
